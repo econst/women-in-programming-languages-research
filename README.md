@@ -22,6 +22,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Kuljit Kaur Chahal](https://twitter.com/kuljitchahal2), Guru Nanak Dev University, Amritsar, India
 * [Marsha Chechik](http://www.cs.toronto.edu/~chechik), University of Toronto, Canada
 * [Maria Christakis](https://mariachris.github.io/), MPI-SWS, Germany
+* [Eleni Constantinou](http://www.econst.eu), Eindhoven University of Technology, The Netherlands
 * [Ornela Dardha](http://www.dcs.gla.ac.uk/~ornela/), University of Glasgow, UK
 * [Eva Darulova](https://people.mpi-sws.org/~eva/), MPI-SWS, Germany
 * [Işil Dillig](http://www.cs.utexas.edu/~isil/), University of Texas Austin, USA
@@ -101,7 +102,6 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
  * [Maxime Chevalier-Boisvert](https://pointersgonewild.com), ZetaVM
 
 ## Postdocs
-* [Eleni Constantinou](http://www.econst.eu), University of Mons, Belgium
 * [Jennifer Hackett](http://www.cs.nott.ac.uk/~pszjlh/), University of Nottingham, UK
 * [Maria Kechagia](https://mkechagia.github.io/), University College London, UK
 * [Rumyana Neykova](http://mrg.doc.ic.ac.uk/people/rumyana-neykova/), Imperial College London, UK
